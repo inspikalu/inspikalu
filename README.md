@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inspikalu
-- 👀 I’m interested in Graphics Design and Frontend Web-Development
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Full-stack Web-Development
+- 🌱 I’m currently learning Express.js
 - 💞️ I’m looking to collaborate on frontend project
 - 📫 How to reach me twitter [Inspikalu](https://twitter.com/inspikalu)
 
