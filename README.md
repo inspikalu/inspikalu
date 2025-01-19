@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Express.js
 - 💞️ I’m looking to collaborate on frontend project
 - 📫 How to reach me twitter [Inspikalu](https://twitter.com/inspikalu)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=inspikalu)](https://git.io/streak-stats)
 
 <!---
 inspikalu/inspikalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
